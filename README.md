@@ -5,7 +5,7 @@ Shingra-WoW BugTracker
 
 How to use?
 -------------------------
-On the Bugtracker all titles of reports must be written in English so that everyone, no matter which language they use everyday, could search and check if the problem already has been reported by another player. When describing the problem you can use English as well as Polish and in nearest future - others. It is important to determine at the beginning of a title in which language it is written by using symbols [EN] or [PL].
+On the Bugtracker all titles of reports must be written in English so that everyone, no matter which language they use everyday, could search and check if the problem already has been reported by another player. When describing the problem you can use English as well as Polish and in nearest future - others. It is important to determine at the beginning of a title in which language it is written by using symbols [EN].
 
  - Use the search engine to find out if a similar problem has been already reported. If so, check if it's already been fixed and waits for update.
  - Make sure, that what you report is actually a bug.
