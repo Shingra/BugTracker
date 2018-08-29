@@ -1,6 +1,4 @@
-# ![logo](http://shingra.com/img/logo1.png)
-
-Shingra-WoW BugTracker
+World of Riseland BugTracker
 ================================
 
 How to use?
@@ -9,24 +7,20 @@ On the Bugtracker all titles of reports must be written in English so that every
 
  - Use the search engine to find out if a similar problem has been already reported. If so, check if it's already been fixed and waits for update.
  - Make sure, that what you report is actually a bug.
- - Enclose links to things related to the bug using http://wowhead.com
  - Write your tickets according to the format:<br>
-  * `[EN][Quest][Zone]` The invasion begins<br>
-  * `[EN][NPC]` Trall<br>
-  * `[EN][Spell][Class]` Charge<br>
-  * `[PL][Talent][Class]` Brain Freeze<br>
-  * `[EN][Glyph][Class]` Glyph of Charge<br>
-  * `[EN][Npc][Drop]` Trall<br>
-  * `[EN][Web]` Changelog doesnt work
+  * `[EN][Quest][Zone]` Name of The Quest<br>
+  * `[EN][NPC]` Name of the NPC<br>
+  * `[EN][Spell][Class]` Name of the Spell and Character Class<br>
+  * `[EN][Talent][Class]` Name of the Talent and Character Class<br>
+  * `[EN][Rune][Class]` Name of the Rune and Character Class<br>
 
 
 Additional Information
 -------------------------
 
-| Supported patch:  | 7.1.5                                          |
+| Supported patch:  | 1.0.0                                          |
 |-------------------|:-----------------------------------------------|
 | Bugtracker:       | https://github.com/Shingra/BugTracker/issues   |
 | Website:          | http://shingra.com                           	 |
-| Realmlist:        | logon.shingra.com                              |
 | Discord:          | https://discordapp.com/invite/mvHTMFp          |
 
